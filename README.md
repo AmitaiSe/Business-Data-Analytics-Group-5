@@ -1,2 +1,3 @@
-# Business-Data-Analytics-Group-5
-## Yarden, Omer and Amitai
+# Business Analytics - Group 5
+## :bike: Bike-Sharing Project :bike:
+#### Yarden, Omer and Amitai

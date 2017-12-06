@@ -1,0 +1,38 @@
+"","station_id","name","latitude","longitude","dockcount","landmark","installation_date","count_rentals","count_returns"
+"1",39,"Powell Street BART",37.783871,-122.408433,19,"San Francisco","25-08-13",15806,16834
+"2",41,"Clay at Battery",37.795001,-122.39997,15,"San Francisco","19-08-13",9615,9542
+"3",42,"Davis at Jackson",37.79728,-122.398436,15,"San Francisco","19-08-13",9926,10753
+"4",45,"Commercial at Montgomery",37.794231,-122.402923,15,"San Francisco","19-08-13",11649,11584
+"5",46,"Washington at Kearney",37.795425,-122.404767,15,"San Francisco","19-08-13",5021,6374
+"6",47,"Post at Kearney",37.788975,-122.403452,19,"San Francisco","19-08-13",9119,9006
+"7",48,"Embarcadero at Vallejo",37.799953,-122.398525,15,"San Francisco","19-08-13",9587,10910
+"8",49,"Spear at Folsom",37.790302,-122.390637,19,"San Francisco","20-08-13",11306,11239
+"9",50,"Harry Bridges Plaza (Ferry Building)",37.795392,-122.394203,23,"San Francisco","20-08-13",30503,31303
+"10",51,"Embarcadero at Folsom",37.791464,-122.391034,19,"San Francisco","20-08-13",14869,14558
+"11",54,"Embarcadero at Bryant",37.787152,-122.388013,15,"San Francisco","20-08-13",13528,11673
+"12",55,"Temporary Transbay Terminal (Howard at Beale)",37.789756,-122.394643,23,"San Francisco","20-08-13",28206,25718
+"13",56,"Beale at Market",37.792251,-122.397086,19,"San Francisco","20-08-13",15923,12404
+"14",57,"5th at Howard",37.781752,-122.405127,15,"San Francisco","21-08-13",12568,14049
+"15",58,"San Francisco City Hall",37.77865,-122.418235,19,"San Francisco","21-08-13",4061,3224
+"16",59,"Golden Gate at Polk",37.781332,-122.418603,23,"San Francisco","21-08-13",6965,5546
+"17",60,"Embarcadero at Sansome",37.80477,-122.403234,15,"San Francisco","21-08-13",24178,26920
+"18",61,"2nd at Townsend",37.780526,-122.390288,27,"San Francisco","22-08-13",26762,29713
+"19",62,"2nd at Folsom",37.785299,-122.396236,19,"San Francisco","22-08-13",16313,9578
+"20",63,"Howard at 2nd",37.786978,-122.398108,19,"San Francisco","22-08-13",14376,15144
+"21",64,"2nd at South Park",37.782259,-122.392738,15,"San Francisco","22-08-13",18148,16522
+"22",65,"Townsend at 7th",37.771058,-122.402717,15,"San Francisco","22-08-13",24162,26723
+"23",66,"South Van Ness at Market",37.774814,-122.418954,19,"San Francisco","23-08-13",12050,10016
+"24",67,"Market at 10th",37.776619,-122.417385,27,"San Francisco","23-08-13",20323,17246
+"25",68,"Yerba Buena Center of the Arts (3rd @ Howard)",37.784878,-122.401014,19,"San Francisco","23-08-13",9370,10356
+"26",69,"San Francisco Caltrain 2 (330 Townsend)",37.7766,-122.39547,23,"San Francisco","23-08-13",40135,41847
+"27",70,"San Francisco Caltrain (Townsend at 4th)",37.776617,-122.39526,19,"San Francisco","23-08-13",51730,65891
+"28",71,"Powell at Post (Union Square)",37.788446,-122.408499,19,"San Francisco","23-08-13",10414,6705
+"29",72,"Civic Center BART (7th at Market)",37.781039,-122.411748,23,"San Francisco","23-08-13",12317,12213
+"30",73,"Grant Avenue at Columbus Avenue",37.7979,-122.405942,19,"San Francisco","19-05-16",14486,7106
+"31",74,"Steuart at Market",37.794139,-122.394434,23,"San Francisco","25-08-13",26471,26971
+"32",75,"Mechanics Plaza (Market at Battery)",37.7913,-122.399051,19,"San Francisco","25-08-13",12297,12427
+"33",76,"Market at 4th",37.786305,-122.404966,19,"San Francisco","25-08-13",17234,16443
+"34",77,"Market at Sansome",37.789625,-122.400811,27,"San Francisco","25-08-13",24297,28598
+"35",82,"Broadway St at Battery St",37.798541,-122.400862,15,"San Francisco","22-01-14",11062,9650
+"36",90,"5th St at Folsom St",37.780148,-122.403158,31,"San Francisco","04-08-16",110,98
+"37",91,"Cyril Magnin St at Ellis St",37.785908,-122.408891,35,"San Francisco","04-08-16",40,43
